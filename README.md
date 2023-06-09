@@ -7,7 +7,7 @@ This application has been created to help users with mental health issues throug
 * The selection will prompt different categories to the user
 * After selecting the category they want, a list of related videos/articles will be shown on a modal.
 
-## Git repository: [[https://github.com/Sulaiman-ai/Fitness-App](https://github.com/Zakaria1986/Fitness-App)](https://github.com/Zakaria1986/Fitness-App)
+## Git repository: [https://github.com/Zakaria1986/Fitness-App](https://github.com/Zakaria1986/Fitness-App)
 
 ## Live page: [https://github.com/Zakaria1986/Fitness-App](https://zakaria1986.github.io/Fitness-App/)
 <br />
